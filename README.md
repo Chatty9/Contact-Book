@@ -1,4 +1,4 @@
-<a href="https://raw.githubusercontent.com/Chatty9/Contact-Book/main/Versions/contact.png">DOWNLOAD VER = 1.0.1</a>
+<a href="https://raw.githubusercontent.com/Chatty9/Contact-Book/main/Versions/contact 1.0.1.exe">DOWNLOAD VER = 1.0.1 - Latest</a>
 
 # Contact-Book
 
