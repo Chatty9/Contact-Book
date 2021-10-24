@@ -1,7 +1,7 @@
 101% Safe
 
 
-<a href="https://raw.githubusercontent.com/Chatty9/Contact-Book/main/Versions/contact 1.0.1.exe">DOWNLOAD VER = 1.0.1 - Latest</a>
+<a href="https://raw.githubusercontent.com/Chatty9/Contact-Book/main/Versions/Contact.zip">DOWNLOAD VER = 1.0.1 - Latest</a>
 
 # Contact-Book
 
